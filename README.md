@@ -1,4 +1,10 @@
-# Hi 👋, I'm Mohit
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOHIT-848&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHIT-848&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=MOHIT-848&theme=tokyonight)
+
+<h1 align="center">
+Hi 👋 I'm Mohit
+</h1>
 
 🎓 BE Computer Science Student
 💻 Frontend Developer
