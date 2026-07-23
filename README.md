@@ -24,6 +24,6 @@ GitHub
 
 ## 📫 Connect with Me
 
-LinkedIn: https://www.linkedin.com/in/mohit-singh-71a6b1338/
+LinkedIn: https://www.linkedin.com/in/mohit-singh-71a6b1338/\n
 Email: singhsaabh1548@gmail.com
 
