@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi 👋, I'm Mohit
 
-<!--
-**MOHIT-848/MOHIT-848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE Computer Science Student
+💻 Frontend Developer
+🌱 Currently learning JavaScript, React & Python
+🚀 Building projects to improve my development skills
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML
+CSS
+JavaScript
+Python
+Java
+Git
+GitHub
+
+## 📌 Featured Projects
+
+- Portfolio Website
+- To-Do App
+- Weather App
+- Expense Tracker
+
+## 📫 Connect with Me
+
+LinkedIn
+Email
+Portfolio
