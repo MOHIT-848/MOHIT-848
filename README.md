@@ -55,31 +55,67 @@ Java is currently my primary programming language, with a strong focus on **OOP,
 
 ---
 
-# 🧰 Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center" width="33%">
+
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,js" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=java,python,js" />
 
-<br><br>
+</td>
+
+<td align="center" width="33%">
 
 ### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend Technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
-<br><br>
+</td>
+
+<td align="center" width="33%">
 
 ### 🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql" alt="Database Technologies"/>
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-<br><br>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
 
 ### 🔧 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</td>
+
+<td align="center" width="33%">
+
+### ☕ Java
+
+<img src="https://skillicons.dev/icons?i=java" />
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧩 Core CS
+
+**OOP** • **DSA** • **DBMS** • **SQL**
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
