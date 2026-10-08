@@ -16,6 +16,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=MOHIT-848&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
 
+---
+
 # 📈 My GitHub Activity
 
 <div align="center">
@@ -32,7 +34,6 @@
 
 </div>
 
----
 
 # 👨‍💻 About Me
 
