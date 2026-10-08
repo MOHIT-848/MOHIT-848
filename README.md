@@ -201,21 +201,21 @@ A simple interactive calculator built to practice JavaScript logic and frontend 
 
 ---
 
-## 📈 GitHub Contribution Graph
+# 📈 GitHub Contribution Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHIT-848&theme=tokyo-night&hide_border=true&area=true&custom_title=Mohit%27s%20Contribution%20Graph" width="95%" alt="Mohit's GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHIT-848&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MOHIT-848&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="95%" alt="Mohit's GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MOHIT-848&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
