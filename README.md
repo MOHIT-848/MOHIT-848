@@ -1,37 +1,30 @@
+<!-- ======================= HEADER ======================= -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MOHIT-848&theme=tokyonight)
+<div align="center">
 
-<h1 align="center">
-Hi 👋 I'm Mohit
-</h1>
+# 👋 Hi, I'm Mohit Singh
 
-- 🎓 BE Computer Science Student
-- 💻 Frontend Developer
-- 🌱 Currently learning JavaScript, React & Python
-- 🚀 Building projects to improve my development skills
+### 💻 Computer Science Student | Frontend Developer | Problem Solver
 
-## 🛠 Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=BE+Computer+Science+Student;Frontend+Developer;Java+%7C+Python+%7C+JavaScript;React+Developer+in+Progress;Building+Projects+%26+Learning+Every+Day" />
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- Java
-- Git
-- GitHub
+<br>
 
-## 📌 Featured Projects
+<img src="https://komarev.com/ghpvc/?username=MOHIT-848&label=Profile%20Views&color=0e75b6&style=flat" />
 
-- Portfolio Website
-- Calculator App
-- StudIq App
+</div>
 
-## 📫 Connect with Me
+---
 
-- LinkedIn: https://www.linkedin.com/in/mohit-singh-71a6b1338/
-- Email: singhsaabh1548@gmail.com
+<!-- ======================= ABOUT ME ======================= -->
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode"/>
-</p>
+## 🚀 About Me
 
+```text
+🎓 BE Computer Science Student
+💻 Frontend Developer
+🌱 Currently learning React, JavaScript & Python
+🧠 Improving Data Structures & Algorithms
+🚀 Building real-world projects
+🔧 Exploring AI, Web Development & Software Engineering
+🎯 Goal: Become a strong Full-Stack Developer
