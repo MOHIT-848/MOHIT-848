@@ -452,25 +452,109 @@ A simple and interactive calculator application built to strengthen JavaScript f
 
 <div align="center">
 
-| ☕ Java | 🧩 DSA | ⚛️ React | 🌐 Full Stack | 🤖 AI |
-|:---:|:---:|:---:|:---:|:---:|
-| Master OOP | Solve More | Advanced Apps | Learn Backend | Build Apps |
-| Collections | Algorithms | Hooks | APIs | AI Projects |
+### 🚀 Leveling Up One Skill at a Time
 
-</div>
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ☕ Java
+
+**Master Java**
+
+OOP • Collections  
+Exception Handling
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧩 DSA
+
+**Master DSA**
+
+Algorithms • Problem Solving  
+Coding Challenges
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚛️ React
+
+**Advanced React**
+
+Hooks • Components  
+State Management
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐 Backend
+
+**Learn Backend**
+
+APIs • Servers  
+Databases
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="25%">
+
+### 🚀 Full Stack
+
+**Build Applications**
+
+Frontend + Backend  
+Deployment
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖 AI
+
+**Build AI Apps**
+
+AI Integration  
+Intelligent Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌎 Open Source
+
+**Contribute**
+
+Repositories  
+Pull Requests
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏆 Hackathons
+
+**Compete & Build**
+
+Ideas • Teams  
+Real-World Solutions
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<div align="center">
+**🎯 Mission:** `Learn → Build → Ship → Improve`
 
-☐ Master Java  
-☐ Become strong in DSA  
-☐ Build advanced React projects  
-☐ Learn Backend Development  
-☐ Build Full-Stack Applications  
-☐ Contribute to Open Source  
-☐ Participate in Hackathons  
+</div>
 
+---
 </div>
 
 ---
