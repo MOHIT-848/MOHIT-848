@@ -6,6 +6,20 @@
 
 # 👋 Hi, I'm Mohit Singh
 
+# 📈 My GitHub Activity
+
+<div align="center">
+
+| ⭐ Stars Earned | 💻 Contributions | 🔥 Current Streak | ☕ Primary Language |
+|:---:|:---:|:---:|:---:|
+| **26+** | **226+** | **4 Days** | **Java** |
+
+</div>
+
+> These numbers change as I continue building and contributing.
+
+---
+
 ### 💻 BE Computer Science Student • Java Developer • Frontend Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+Developer+%E2%98%95;Frontend+Developer+%F0%9F%92%BB;BE+Computer+Science+Student+%F0%9F%8E%93;Learning+DSA+%26+Problem+Solving+%F0%9F%A7%A0;Building+Real-World+Projects+%F0%9F%9A%80;Always+Learning+%26+Improving+%F0%9F%94%A5" alt="Typing SVG"/>
@@ -38,6 +52,29 @@ My current focus is **Java, Data Structures & Algorithms, JavaScript, React, Pyt
 ```
 
 > **I don't want to just learn technologies. I want to build things with them.**
+
+---
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<a href="https://github.com/MOHIT-848">
+<img src="https://github-readme-stats.vercel.app/api?username=MOHIT-848&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="Mohit's GitHub Stats"/>
+</a>
+
+<a href="https://github.com/MOHIT-848">
+<img src="https://streak-stats.demolab.com?user=MOHIT-848&theme=tokyonight&hide_border=true" height="180" alt="Mohit's GitHub Streak"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHIT-848&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Most Used Languages"/>
+
+</div>
 
 ---
 
@@ -121,43 +158,9 @@ Java is currently my primary programming language, with a strong focus on **OOP,
 
 ---
 
-# 📊 GitHub Statistics
 
-<div align="center">
 
-<a href="https://github.com/MOHIT-848">
-<img src="https://github-readme-stats.vercel.app/api?username=MOHIT-848&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="Mohit's GitHub Stats"/>
-</a>
 
-<a href="https://github.com/MOHIT-848">
-<img src="https://streak-stats.demolab.com?user=MOHIT-848&theme=tokyonight&hide_border=true" height="180" alt="Mohit's GitHub Streak"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHIT-848&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Most Used Languages"/>
-
-</div>
-
----
-
-# 📈 My GitHub Activity
-
-<div align="center">
-
-| ⭐ Stars Earned | 💻 Contributions | 🔥 Current Streak | ☕ Primary Language |
-|:---:|:---:|:---:|:---:|
-| **26+** | **226+** | **4 Days** | **Java** |
-
-</div>
-
-> These numbers change as I continue building and contributing.
-
----
 
 # 🚀 Featured Projects
 
