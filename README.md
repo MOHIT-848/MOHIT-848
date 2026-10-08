@@ -6,6 +6,16 @@
 
 # 👋 Hi, I'm Mohit Singh
 
+
+
+### 💻 BE Computer Science Student • Java Developer • Frontend Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+Developer+%E2%98%95;Frontend+Developer+%F0%9F%92%BB;BE+Computer+Science+Student+%F0%9F%8E%93;Learning+DSA+%26+Problem+Solving+%F0%9F%A7%A0;Building+Real-World+Projects+%F0%9F%9A%80;Always+Learning+%26+Improving+%F0%9F%94%A5" alt="Typing SVG"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=MOHIT-848&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+
 # 📈 My GitHub Activity
 
 <div align="center">
@@ -19,14 +29,6 @@
 > These numbers change as I continue building and contributing.
 
 ---
-
-### 💻 BE Computer Science Student • Java Developer • Frontend Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Java+Developer+%E2%98%95;Frontend+Developer+%F0%9F%92%BB;BE+Computer+Science+Student+%F0%9F%8E%93;Learning+DSA+%26+Problem+Solving+%F0%9F%A7%A0;Building+Real-World+Projects+%F0%9F%9A%80;Always+Learning+%26+Improving+%F0%9F%94%A5" alt="Typing SVG"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=MOHIT-848&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
