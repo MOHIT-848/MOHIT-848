@@ -409,61 +409,40 @@ A simple and interactive calculator application built to strengthen JavaScript f
 
 ---
 
-# 🧩 Problem Solving
-
-I'm actively improving my problem-solving skills through programming challenges and DSA practice.
-
-### Current Focus
-
-```text
-Arrays
-  ↓
-Strings
-  ↓
-Searching & Sorting
-  ↓
-Two Pointers
-  ↓
-Sliding Window
-  ↓
-Hashing
-  ↓
-Recursion
-  ↓
-Stacks & Queues
-  ↓
-Linked Lists
-  ↓
-Trees & Graphs
-  ↓
-Dynamic Programming
-```
-
 ---
 
-# 🏗️ My Development Journey
+# 🧩 Problem Solving
 
 <div align="center">
 
-```text
-HTML + CSS
-      ↓
-JavaScript
-      ↓
-Java + OOP
-      ↓
-Python
-      ↓
-SQL + DBMS
-      ↓
-Data Structures & Algorithms
-      ↓
-React
-      ↓
-Full-Stack Development
-      ↓
-AI-Powered Applications
-```
+### 🧠 DSA Roadmap
+
+| 🔰 Fundamentals | 🚀 Advanced |
+|:---:|:---:|
+| Arrays | Recursion |
+| Strings | Stacks & Queues |
+| Searching | Linked Lists |
+| Sorting | Trees & Graphs |
+| Two Pointers | Dynamic Programming |
+| Sliding Window | Hashing |
+
+</div>
+
+<br>
+
+<div align="center">
+
+**🎯 Current Focus:** `Java` • `DSA` • `Problem Solving`
+
+</div>
+
+---
+
+# 🧠 My Development Journey
+
+<div align="center">
+
+**HTML/CSS** → **JavaScript** → **Java/OOP** → **Python** → **SQL/DBMS** → **DSA** → **React** → **Full-Stack** → **AI**
 
 </div>
 
@@ -471,67 +450,40 @@ AI-Powered Applications
 
 # 🎯 2026 Goals
 
-```text
-☐ Master Java
-☐ Become strong in DSA
-☐ Solve more programming problems
-☐ Master JavaScript
-☐ Build advanced React applications
-☐ Learn Backend Development
-☐ Build Full-Stack Projects
-☐ Build AI-powered applications
-☐ Participate in Hackathons
-☐ Contribute to Open Source
-☐ Deploy production-ready applications
-```
+<div align="center">
 
----
+| ☕ Java | 🧩 DSA | ⚛️ React | 🌐 Full Stack | 🤖 AI |
+|:---:|:---:|:---:|:---:|:---:|
+| Master OOP | Solve More | Advanced Apps | Learn Backend | Build Apps |
+| Collections | Algorithms | Hooks | APIs | AI Projects |
 
-# 💡 Developer Mindset
+</div>
+
+<br>
 
 <div align="center">
 
-### BUILD
-
-↓
-
-### BREAK
-
-↓
-
-### DEBUG
-
-↓
-
-### LEARN
-
-↓
-
-### IMPROVE
-
-↓
-
-### BUILD BETTER
+☐ Master Java  
+☐ Become strong in DSA  
+☐ Build advanced React projects  
+☐ Learn Backend Development  
+☐ Build Full-Stack Applications  
+☐ Contribute to Open Source  
+☐ Participate in Hackathons  
 
 </div>
 
 ---
 
-# ⚡ My Philosophy
+# ⚡ Developer Philosophy
 
 <div align="center">
 
-> ### "Don't just learn how to code. Learn how to solve problems with code."
+### BUILD → BREAK → DEBUG → LEARN → IMPROVE
 
 <br>
 
-**Consistency > Motivation**
-
-**Understanding > Memorization**
-
-**Building > Watching Tutorials**
-
-**Problem Solving > Copying Code**
+> **"Don't just learn how to code. Learn how to solve problems with code."**
 
 </div>
 
@@ -542,41 +494,33 @@ AI-Powered Applications
 <div align="center">
 
 <a href="https://github.com/MOHIT-848">
-<img src="https://img.shields.io/badge/GitHub-MOHIT--848-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-MOHIT--848-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohit-singh-71a6b1338/">
-<img src="https://img.shields.io/badge/LinkedIn-Mohit%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Mohit%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:singhsaabh1548@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 🐍 Technologies I'm Working With
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,mysql,git,github,vscode" alt="Technology Stack"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,mysql,git,github,vscode" />
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-## ☕ Java • 💻 Code • 🧠 DSA • 🚀 Build
+### ☕ Java • 💻 Code • 🧠 DSA • 🚀 Build
 
 <br>
 
-### Thanks for visiting my profile! 👋
+**Thanks for visiting my profile! 👋**
 
-<br>
-
-⭐ **Feel free to explore my repositories and check out my projects.**
+⭐ **Feel free to explore my repositories.**
 
 </div>
