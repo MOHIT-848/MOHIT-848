@@ -163,63 +163,222 @@ Java is currently my primary programming language, with a strong focus on **OOP,
 
 <div align="center">
 
-## 🎓 StudIQ
+### 💡 Projects I've Built & Worked On
 
-### AI Learning Companion
+*Turning ideas into practical applications through code.*
 
-An AI-powered learning platform designed to help students understand their weak areas and improve their learning experience.
+</div>
 
-**Key Features**
+<br>
 
-🧠 Knowledge Gap Detection  
-🤖 AI Tutor  
-📊 Learning Analytics  
-📚 Personalized Learning  
-📈 Performance Tracking  
+<table>
+<tr>
 
-**Tech Stack**
+<!-- ===================== STUDIQ ===================== -->
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+# 🎓 StudIQ
+
+### 🧠 AI Learning Companion
+
+</div>
+
+An AI-powered learning platform designed to help students identify knowledge gaps, understand difficult concepts, and improve their learning performance.
+
+### ✨ Highlights
+
+- 🧠 **Knowledge Gap Detection**
+- 🤖 **AI Tutor**
+- 📊 **Learning Analytics**
+- 🎯 **Personalized Learning**
+- 📈 **Performance Tracking**
+- 📚 **Adaptive Learning**
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css" />
+
+<br><br>
 
 `React` `JavaScript` `HTML` `CSS` `AI`
 
----
+</div>
 
-## 🚨 MeshLink
+<br>
 
-### Offline Emergency Communication
+<div align="center">
 
-A communication system designed to allow nearby devices to exchange emergency messages without relying on traditional internet connectivity.
+<!-- Replace # with your actual repository URL -->
 
-**Key Features**
+<a href="#">
+<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-📡 Nearby Device Discovery  
-💬 Offline Messaging  
-🔄 Message Relay  
-🚨 Emergency Priority Detection  
-📱 Mobile Communication  
+</div>
 
-**Tech Stack**
+</td>
+
+<!-- ===================== MESHLINK ===================== -->
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+# 🚨 MeshLink
+
+### 📡 Offline Emergency Communication
+
+</div>
+
+An emergency communication application designed to allow nearby devices to exchange important messages without depending on traditional internet connectivity.
+
+### ✨ Highlights
+
+- 📡 **Nearby Device Discovery**
+- 💬 **Offline Messaging**
+- 🔄 **Automatic Message Relay**
+- 🚨 **Emergency Priority Detection**
+- 📱 **Device-to-Device Communication**
+- 🌐 **Internet Independent**
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+
+<br><br>
 
 `Flutter` `Dart` `Nearby Connections`
 
----
+</div>
 
-## 🌐 Personal Portfolio
+<br>
 
-A responsive developer portfolio designed to showcase my projects, technical skills, and development journey.
+<div align="center">
 
-**Tech Stack**
+<!-- Replace # with your actual repository URL -->
+
+<a href="#">
+<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+</td>
+
+</tr>
+
+<!-- ===================== SECOND ROW ===================== -->
+
+<tr>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+# 🌐 Personal Portfolio
+
+### 💻 Developer Portfolio Website
+
+</div>
+
+A responsive portfolio website created to showcase my projects, technical skills, development journey, and achievements.
+
+### ✨ Highlights
+
+- 📱 Responsive Design
+- 🎨 Modern UI
+- ⚡ Interactive Components
+- 📂 Project Showcase
+- 📬 Contact Section
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
 
 `HTML` `CSS` `JavaScript`
 
----
+</div>
 
-## 🧮 Calculator App
+<br>
 
-A simple interactive calculator created to practice JavaScript logic, DOM manipulation, and frontend development.
+<div align="center">
 
-**Tech Stack**
+<a href="#">
+<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+</td>
+
+<!-- ===================== CALCULATOR ===================== -->
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+# 🧮 Calculator
+
+### ⚡ JavaScript Calculator
+
+</div>
+
+A simple and interactive calculator application built to strengthen JavaScript fundamentals, DOM manipulation, and logical problem solving.
+
+### ✨ Highlights
+
+- ➕ Basic Arithmetic
+- ➖ Subtraction
+- ✖️ Multiplication
+- ➗ Division
+- 🧠 JavaScript Logic
+- 🎨 Interactive UI
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+<br><br>
 
 `HTML` `CSS` `JavaScript`
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/View%20Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🚀 More Projects Coming Soon...
+
+**Build → Experiment → Learn → Improve**
 
 </div>
 
