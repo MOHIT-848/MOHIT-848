@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Mohit Singh
 
-### 💻 BE Computer Science Student | Frontend Developer | Problem Solver
+### 💻 BE Computer Science Student | Frontend Developer | Java & Web Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=BE+Computer+Science+Student;Frontend+Developer;Java+%7C+Python+%7C+JavaScript;React+Developer+in+Progress;Building+Real-World+Projects;Learning+Something+New+Every+Day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=BE+Computer+Science+Student;Java+Developer+%E2%98%95;Frontend+Developer+%F0%9F%92%BB;JavaScript+%7C+React+%7C+Python;Learning+DSA+%26+Problem+Solving;Building+Real-World+Projects" alt="Typing SVG"/>
 
 <br>
 
@@ -14,65 +14,98 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a **BE Computer Science student** passionate about software development, frontend development, and problem solving.
-
-I enjoy building projects, learning new technologies, and improving my programming fundamentals through hands-on development.
+I'm a **BE Computer Science student** passionate about software development, problem solving, and building real-world applications.
 
 - 🎓 BE Computer Science Student
+- ☕ Java Developer
 - 💻 Frontend Developer
-- 🌱 Currently learning **JavaScript, React & Python**
-- ☕ Practicing **Java & Object-Oriented Programming**
-- 🧠 Improving **Data Structures & Algorithms**
-- 🗄️ Learning **SQL & DBMS**
+- ⚛️ Learning React.js
+- 🟨 Learning JavaScript
+- 🐍 Learning Python
+- 🧠 Practicing Data Structures & Algorithms
+- 🗄️ Learning SQL & DBMS
 - 🚀 Building real-world projects
-- 🤖 Interested in **AI-powered applications**
-- 🏆 Exploring Hackathons & Open Source
+- 🤖 Interested in AI-powered applications
+- 🏆 Interested in Hackathons & Open Source
 
-> 💡 **Code → Learn → Build → Break → Fix → Repeat**
+> **Code → Learn → Build → Debug → Improve**
 
 ---
 
-## 🔥 Currently Learning
+# ☕ Java Is My Main Language
 
-```text
-⚛️ React.js
-🟨 Advanced JavaScript
-🐍 Python
-☕ Java & OOP
-🧩 Data Structures & Algorithms
-🗄️ SQL & DBMS
-🌐 Full-Stack Development
-🤖 AI-powered Applications
-```
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java" width="100"/>
+
+### Java • OOP • DSA • Problem Solving
+
+</div>
+
+---
+
+# 📊 GitHub Overview
+
+<div align="center">
+
+<a href="https://github.com/MOHIT-848">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MOHIT-848&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="190"/>
+
+</a>
+
+<a href="https://github.com/MOHIT-848">
+
+<img src="https://streak-stats.demolab.com?user=MOHIT-848&theme=tokyonight&hide_border=true" height="190"/>
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHIT-848&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+
+</div>
 
 ---
 
 # 🛠️ Tech Stack
 
-## 💻 Programming Languages
+## ☕ Programming Languages
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=java,python,js" />
+
 </p>
 
 ## 🌐 Frontend Development
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+
 </p>
 
 ## 🗄️ Database & Backend
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=mysql,nodejs" />
+
 </p>
 
-## 🔧 Tools & Platforms
+## 🔧 Tools
 
 <p align="left">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
 </p>
 
 ---
@@ -81,13 +114,13 @@ I enjoy building projects, learning new technologies, and improving my programmi
 
 | Category | Technologies |
 |---|---|
-| 💻 Languages | Java, Python, JavaScript |
+| ☕ Programming | Java, Python, JavaScript |
 | 🌐 Frontend | HTML, CSS, JavaScript, React |
 | 🗄️ Database | MySQL, SQL |
 | 🔧 Tools | Git, GitHub, VS Code |
 | 🧠 CS Fundamentals | OOP, DBMS, Operating Systems |
 | 🧩 Problem Solving | DSA, Algorithms |
-| 📱 Development | Web Applications, UI Development |
+| 🚀 Development | Web Applications, UI Development |
 
 ---
 
@@ -104,7 +137,7 @@ An AI-powered learning platform designed to help students identify knowledge gap
 - 📊 Learning analytics
 - 📚 Personalized learning
 - 📈 Performance tracking
-- 🎯 Adaptive learning experience
+- 🎯 Adaptive learning
 
 ### 🛠️ Tech Stack
 
@@ -114,7 +147,7 @@ An AI-powered learning platform designed to help students identify knowledge gap
 
 ## 🚨 MeshLink — Offline Emergency Communication
 
-An emergency communication application designed to enable communication between nearby devices without requiring traditional internet connectivity.
+An offline emergency communication application designed to enable communication between nearby devices without traditional internet connectivity.
 
 ### ✨ Features
 
@@ -132,7 +165,7 @@ An emergency communication application designed to enable communication between 
 
 ## 🌐 Personal Portfolio
 
-A responsive portfolio website showcasing my skills, projects, experience, and development journey.
+A responsive portfolio website showcasing my skills, projects, and development journey.
 
 ### 🛠️ Tech Stack
 
@@ -142,7 +175,7 @@ A responsive portfolio website showcasing my skills, projects, experience, and d
 
 ## 🧮 Calculator App
 
-A simple and interactive calculator built to practice JavaScript logic and frontend development.
+A simple interactive calculator built to practice JavaScript logic and frontend development.
 
 ### 🛠️ Tech Stack
 
@@ -150,23 +183,29 @@ A simple and interactive calculator built to practice JavaScript logic and front
 
 ---
 
-# 📊 GitHub Statistics
+# 🧠 What I'm Currently Learning
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MOHIT-848&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHIT-848&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+| 🔥 Area | 📚 Focus |
+|---|---|
+| ☕ Java | OOP, Collections, Exception Handling |
+| 🧩 DSA | Arrays, Strings, Recursion, Algorithms |
+| 🟨 JavaScript | ES6+, DOM, Advanced Concepts |
+| ⚛️ React | Components, Hooks, State Management |
+| 🗄️ SQL | Queries, Joins, Subqueries |
+| 🐍 Python | Problem Solving & Automation |
+| 🌐 Web | Frontend & Full-Stack Development |
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 GitHub Contribution Graph
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MOHIT-848&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHIT-848&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
 
 </div>
 
@@ -176,17 +215,7 @@ A simple and interactive calculator built to practice JavaScript logic and front
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MOHIT-848&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHIT-848&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MOHIT-848&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -197,23 +226,23 @@ A simple and interactive calculator built to practice JavaScript logic and front
 <div align="center">
 
 ```text
-HTML / CSS
-     ↓
-JavaScript
-     ↓
-React
-     ↓
-Java + OOP
-     ↓
-Python
-     ↓
-SQL + DBMS
-     ↓
-Data Structures & Algorithms
-     ↓
-Full-Stack Development
-     ↓
-AI-powered Applications
+       HTML / CSS
+            ↓
+       JavaScript
+            ↓
+          React
+            ↓
+       Java + OOP
+            ↓
+          Python
+            ↓
+        SQL + DBMS
+            ↓
+ Data Structures & Algorithms
+            ↓
+   Full-Stack Development
+            ↓
+   AI-Powered Applications
 ```
 
 </div>
@@ -222,15 +251,15 @@ AI-powered Applications
 
 # 🎯 2026 Goals
 
-- [ ] 💪 Become strong in Java & DSA
+- [ ] ☕ Become strong in Java
+- [ ] 🧩 Master Data Structures & Algorithms
 - [ ] 🟨 Master JavaScript
 - [ ] ⚛️ Build advanced React applications
 - [ ] 🌐 Learn backend development
 - [ ] 🚀 Build full-stack projects
-- [ ] 🧠 Solve more DSA problems
+- [ ] 🤖 Build AI-powered applications
 - [ ] 🌎 Contribute to Open Source
 - [ ] 🏆 Participate in Hackathons
-- [ ] 🤖 Build AI-powered applications
 - [ ] ☁️ Deploy production-ready projects
 
 ---
@@ -241,7 +270,9 @@ AI-powered Applications
 
 ### "Don't just learn how to code. Learn how to solve problems with code."
 
-**Build → Fail → Debug → Learn → Improve → Repeat**
+<br>
+
+**BUILD → BREAK → DEBUG → LEARN → IMPROVE**
 
 </div>
 
@@ -269,14 +300,14 @@ AI-powered Applications
 
 <div align="center">
 
-### 💻 Building. Learning. Improving. 🚀
+## ☕ Java • 💻 Code • 🧠 DSA • 🚀 Build
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,java,python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,python,mysql,git,github,vscode" />
 
 <br><br>
 
-⭐ **If you like my projects, consider giving them a star!**
+⭐ **If you like my work, consider giving my repositories a star!**
 
 </div>
