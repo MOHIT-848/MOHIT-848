@@ -27,35 +27,37 @@
 
 <table>
 <tr>
-<td>
+<td align="left">
 
-```text
-╭────────────────────────────────────────╮
-│  mohit@github:~$ ./developer.sh         │
-├────────────────────────────────────────┤
-│                                        │
-│  [ OK ]  Initializing ideas             │
-│  [ OK ]  Writing clean code             │
-│  [ .. ]  Debugging unexpected bugs      │
-│  [ OK ]  Learning something new         │
-│  [ >> ]  Building the next project      │
-│                                        │
-│  STATUS: READY TO BUILD                │
-╰────────────────────────────────────────╯
-```
+┌─────────────────────────────────────┐
+│  MOHIT@GITHUB ~                     │
+│                                     │
+│  $ whoami                           │
+│  Java Developer | Problem Solver    │
+│                                     │
+│  $ current_status                   │
+│  Building projects...               │
+│  Learning something new...          │
+│  Turning ideas into reality...      │
+│                                     │
+│  $ echo "Keep building."             │
+│  Keep building.                     │
+│                                     │
+└─────────────────────────────────────┘
 
 </td>
 </tr>
 </table>
-
 <br/>
 
 <a href="https://github.com/MOHIT-848?tab=repositories">
-  <img src="https://img.shields.io/badge/%3E_Explore_Repositories-39FF14?style=for-the-badge&logo=github&logoColor=101820&labelColor=101820" alt="Explore Repositories"/>
+  <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
 </a>
-
+<a href="https://github.com/MOHIT-848">
+  <img src="https://img.shields.io/badge/Follow_My_Journey-238636?style=for-the-badge&logo=github&logoColor=white" alt="Follow My Journey"/>
+</a>
 <a href="https://www.linkedin.com/in/mohit-singh-71a6b1338/">
-  <img src="https://img.shields.io/badge/Connect-101820?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="Connect on LinkedIn"/>
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
