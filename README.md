@@ -17,20 +17,54 @@
 <img src="https://komarev.com/ghpvc/?username=MOHIT-848&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
 
 
-### 📈 My GitHub Activity
+## ⚡ Developer Dashboard
 
 <div align="center">
 
-| ⭐ Stars Earned | 💻 Contributions | 🔥 Current Streak | ☕ Primary Language |
-|:---:|:---:|:---:|:---:|
-| **26+** | **226+** | **4 Days** | **Java** |
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ☕
+**JAVA**
+
+OOP & DSA
+
+</td>
+<td align="center" width="25%">
+
+### 💻
+**FRONTEND**
+
+React & JavaScript
+
+</td>
+<td align="center" width="25%">
+
+### 🧠
+**PROBLEM SOLVING**
+
+Algorithms
+
+</td>
+<td align="center" width="25%">
+
+### 🚀
+**BUILDING**
+
+Real-World Projects
+
+</td>
+</tr>
+</table>
+
+### 🎯 Current Mission
+
+`LEARN` → `BUILD` → `DEBUG` → `IMPROVE`
 
 </div>
 
-> These numbers change as I continue building and contributing.
-
 ---
-
 </div>
 
 
