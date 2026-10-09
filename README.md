@@ -25,6 +25,8 @@
 
 <br/><br/>
 
+<div align="center">
+
 <table>
 <tr>
 <td align="left">
@@ -48,6 +50,8 @@
 </td>
 </tr>
 </table>
+
+</div>
 <br/>
 
 <a href="https://github.com/MOHIT-848?tab=repositories">
