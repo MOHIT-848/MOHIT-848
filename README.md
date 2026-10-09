@@ -21,26 +21,27 @@
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/STATUS-ALWAYS_BUILDING-39FF14?style=for-the-badge&labelColor=101820" alt="Always Building"/>
+
+<br/><br/>
+
 <table>
 <tr>
-<td align="left">
+<td>
 
 ```text
-┌─────────────────────────────────────┐
-│  MOHIT@GITHUB ~                     │
-│                                     │
-│  $ whoami                           │
-│  Java Developer | Problem Solver    │
-│                                     │
-│  $ current_status                   │
-│  Building projects...               │
-│  Learning something new...          │
-│  Turning ideas into reality...      │
-│                                     │
-│  $ echo "Keep building."             │
-│  Keep building.                     │
-│                                     │
-└─────────────────────────────────────┘
+╭────────────────────────────────────────╮
+│  mohit@github:~$ ./developer.sh         │
+├────────────────────────────────────────┤
+│                                        │
+│  [ OK ]  Initializing ideas             │
+│  [ OK ]  Writing clean code             │
+│  [ .. ]  Debugging unexpected bugs      │
+│  [ OK ]  Learning something new         │
+│  [ >> ]  Building the next project      │
+│                                        │
+│  STATUS: READY TO BUILD                │
+╰────────────────────────────────────────╯
 ```
 
 </td>
@@ -49,7 +50,17 @@
 
 <br/>
 
-**[ Explore Repositories ↗](https://github.com/MOHIT-848?tab=repositories)** &nbsp; • &nbsp; **[ Connect on LinkedIn ↗](https://www.linkedin.com/in/mohit-singh-71a6b1338/)**
+<a href="https://github.com/MOHIT-848?tab=repositories">
+  <img src="https://img.shields.io/badge/%3E_Explore_Repositories-39FF14?style=for-the-badge&logo=github&logoColor=101820&labelColor=101820" alt="Explore Repositories"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohit-singh-71a6b1338/">
+  <img src="https://img.shields.io/badge/Connect-101820?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="Connect on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<sub>BUILD WITH PURPOSE · DEBUG WITH PATIENCE · IMPROVE EVERY DAY</sub>
 
 </div>
 
