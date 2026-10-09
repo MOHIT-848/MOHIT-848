@@ -21,39 +21,35 @@
 
 <div align="center">
 
-<a href="https://github.com/MOHIT-848">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Code+%F0%9F%9A%80;Solving+Problems+One+Step+At+A+Time+%F0%9F%A7%A9;Debugging+Today%2C+Building+Tomorrow+%E2%9A%A1;Always+Learning.+Always+Building.+%F0%9F%94%A5" alt="Developer animation"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/MOHIT-848?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
-</a>
-<a href="https://github.com/MOHIT-848">
-  <img src="https://img.shields.io/badge/Follow_My_Journey-238636?style=for-the-badge&logo=github&logoColor=white" alt="Follow My Journey"/>
-</a>
-<a href="https://www.linkedin.com/in/mohit-singh-71a6b1338/">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<br/><br/>
-
-### 💭 The Developer Loop
-
 <table>
 <tr>
-<td align="center">🔍<br/><b>Explore</b></td>
-<td align="center">→</td>
-<td align="center">💻<br/><b>Create</b></td>
-<td align="center">→</td>
-<td align="center">🐛<br/><b>Debug</b></td>
-<td align="center">→</td>
-<td align="center">🚀<br/><b>Improve</b></td>
+<td align="left">
+
+```text
+┌─────────────────────────────────────┐
+│  MOHIT@GITHUB ~                     │
+│                                     │
+│  $ whoami                           │
+│  Java Developer | Problem Solver    │
+│                                     │
+│  $ current_status                   │
+│  Building projects...               │
+│  Learning something new...          │
+│  Turning ideas into reality...      │
+│                                     │
+│  $ echo "Keep building."             │
+│  Keep building.                     │
+│                                     │
+└─────────────────────────────────────┘
+```
+
+</td>
 </tr>
 </table>
 
-<sub>Every bug is a lesson. Every project is progress.</sub>
+<br/>
+
+**[ Explore Repositories ↗](https://github.com/MOHIT-848?tab=repositories)** &nbsp; • &nbsp; **[ Connect on LinkedIn ↗](https://www.linkedin.com/in/mohit-singh-71a6b1338/)**
 
 </div>
 
