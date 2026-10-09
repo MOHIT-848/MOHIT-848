@@ -42,7 +42,7 @@
 │  Learning something new...          │
 │  Turning ideas into reality...      │
 │                                     │
-│  $ echo "Keep building."             │
+│  $ echo "Keep building."            │
 │  Keep building.                     │
 │                                     │
 └─────────────────────────────────────┘
